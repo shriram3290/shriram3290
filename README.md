@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Insights
 - 🌱 I’m currently learning Python, R and Power Bi
 - 💞️ I’m looking to collaborate on your Ideas that doesn't work out to make it work!
-- 📫 How to reach me [...](https://www.linkedin.com/in/shriram93/)
+- 📫 How to reach me [link](https://www.linkedin.com/in/shriram93/)
 - 😄 Pronouns: Mr/He/Him
 - ⚡ Fun fact:  If I don't get an electrician, I become one.
                 If I don't get a plumber, I become one.
