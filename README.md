@@ -5,9 +5,9 @@
 - 📫 How to reach me [...](https://www.linkedin.com/in/shriram93/)
 - 😄 Pronouns: Mr/He/Him
 - ⚡ Fun fact:  If I don't get an electrician, I become one.
--               If I don't get a plumber, I become one.
--               If I don't get a carpenter, I become one.
--               Life throws a difficulty but I catch it as oppurtunity!
+                If I don't get a plumber, I become one.
+                If I don't get a carpenter, I become one.
+                Life throws a difficulty but I catch it as oppurtunity!
 
 <!---
 shriram3290/shriram3290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
